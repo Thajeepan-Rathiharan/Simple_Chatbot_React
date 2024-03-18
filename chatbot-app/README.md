@@ -19,9 +19,9 @@ npm add react-simple-chatbot was used to add the chatbot to the react app.
 
 ![User typing in the chat to answer the bot.](./src/type_name.png)
 
-![Bot responding and asking a question.](./src/answering_bot.png)
-
 ![Bot responding](./src/bot_responding.png)
+
+![Bot responding and asking a question.](./src/answering_bot.png)
 
 ![Bot responding to answer chosen by user.](./src/bot_responds_to_answer_given.png)
 
