@@ -13,6 +13,7 @@ npx create-react-app chatbot-app was used to create the react app.
 
 npm add react-simple-chatbot was used to add the chatbot to the react app.
 
+# Demo 
 1. How the react app looks upon clicking the link.
 ![How the react app looks upon clicking the link](./src/launch.png)
 
