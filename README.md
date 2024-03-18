@@ -15,22 +15,22 @@ npm add react-simple-chatbot was used to add the chatbot to the react app.
 
 # Demo 
 1. How the react app looks upon clicking the link.
-![How the react app looks upon clicking the link](./src/launch.png)
+![How the react app looks upon clicking the link](launch.png)
 
 2. How the chat looks like when it gets opened.
-![How the chat looks like when it gets opened](./src/open_chat.png)
+![How the chat looks like when it gets opened](open_chat.png)
 
 3. User typing in the chat to answer the bot.
-![User typing in the chat to answer the bot](./src/type_name.png)
+![User typing in the chat to answer the bot](type_name.png)
 
 4. Bot responding.
-![Bot responding](./src/bot_responding.png)
+![Bot responding](bot_responding.png)
 
 5. Bot responding and asking a question.
-![Bot responding and asking a question](./src/answering_bot.png)
+![Bot responding and asking a question](answering_bot.png)
 
 6. Bot responding to answer chosen by user.
-![Bot responding to answer chosen by user](./src/bot_responds_to_answer_given.png)
+![Bot responding to answer chosen by user](bot_responds_to_answer_given.png)
 
 7. Last message between user and bot.
-![Last message between user and bot](./src/last_message.png)
+![Last message between user and bot](last_message.png)
