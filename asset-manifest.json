@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Simple_Chatbot_React/static/css/main.f855e6bc.css",
+    "main.js": "/Simple_Chatbot_React/static/js/main.273ed8c8.js",
+    "static/js/453.78b945df.chunk.js": "/Simple_Chatbot_React/static/js/453.78b945df.chunk.js",
+    "index.html": "/Simple_Chatbot_React/index.html",
+    "main.f855e6bc.css.map": "/Simple_Chatbot_React/static/css/main.f855e6bc.css.map",
+    "main.273ed8c8.js.map": "/Simple_Chatbot_React/static/js/main.273ed8c8.js.map",
+    "453.78b945df.chunk.js.map": "/Simple_Chatbot_React/static/js/453.78b945df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.273ed8c8.js"
+  ]
+}
