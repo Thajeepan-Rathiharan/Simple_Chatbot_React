@@ -9,20 +9,20 @@ This is a chatbot I made using React. [Here is the link to the final product.](h
 - Visual Studio Code
 - Git
 
-npx create-react-app chatbot-app
+npx create-react-app chatbot-app was used to create the react app.
 
-npm add react-simple-chatbot
+npm add react-simple-chatbot was used to add the chatbot to the react app.
 
-![](./src/launch.png)
+![How the react app looks upon clicking the link.](./src/launch.png)
 
-![](./src/open_chat.png)
+![How the chat looks like when it gets opened.](./src/open_chat.png)
 
-![](./src/answering_bot.png)
+![User typing in the chat to answer the bot.](./src/type_name.png)
 
-![](./src/type_name.png)
+![Bot responding and asking a question.](./src/answering_bot.png)
 
-![](./src/bot_responding.png)
+![Bot responding](./src/bot_responding.png)
 
-![](./src/bot_responds_to_answer_given.png)
+![Bot responding to answer chosen by user.](./src/bot_responds_to_answer_given.png)
 
-![](./src/last_message.png)
+![Last message between user and bot.](./src/last_message.png)
